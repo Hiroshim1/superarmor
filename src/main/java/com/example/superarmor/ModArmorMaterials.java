@@ -13,7 +13,7 @@ public enum ModArmorMaterials implements ArmorMaterial {
     // nombre, mult. durabilidad (netherita = 37), defensa casco/pecho/pantalón/botas,
     // encantabilidad, sonido, dureza, resistencia al retroceso, material de reparación
     TITAN("titan", 500, 6, 10, 8, 6, 50, SoundEvents.ARMOR_EQUIP_NETHERITE, 20.0F, 1.0F,
-            () -> Ingredient.of(Items.NETHER_STAR));
+            () -> Ingredient.of(SuperArmor.AKAGANE_INGOT.get()));
 
     private final String name;
     private final int durabilityMultiplier;

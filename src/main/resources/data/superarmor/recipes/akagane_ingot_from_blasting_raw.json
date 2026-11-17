@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:blasting",
+  "category": "misc",
+  "ingredient": {
+    "item": "superarmor:raw_akagane"
+  },
+  "result": "superarmor:akagane_ingot",
+  "experience": 1.5,
+  "cookingtime": 100
+}

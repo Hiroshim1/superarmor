@@ -1,0 +1,18 @@
+{
+  "item.superarmor.titan_helmet": "Kabuto del Samurái Titán",
+  "item.superarmor.titan_chestplate": "Dō del Samurái Titán",
+  "item.superarmor.titan_leggings": "Haidate del Samurái Titán",
+  "item.superarmor.titan_boots": "Suneate del Samurái Titán",
+  "block.superarmor.akagane_ore": "Mena de Akagane",
+  "block.superarmor.deepslate_akagane_ore": "Mena de Akagane de pizarra abisal",
+  "block.superarmor.akagane_block": "Bloque de Akagane",
+  "item.superarmor.akagane_ingot": "Lingote de Akagane",
+  "item.superarmor.raw_akagane": "Akagane en bruto",
+  "item.superarmor.akagane_katana": "Katana de Akagane",
+  "entity.superarmor.samurai_warrior": "Guerrero Samurái",
+  "entity.superarmor.ronin": "Ronin",
+  "entity.superarmor.oni": "Oni",
+  "item.superarmor.samurai_warrior_spawn_egg": "Huevo generador de Guerrero Samurái",
+  "item.superarmor.ronin_spawn_egg": "Huevo generador de Ronin",
+  "item.superarmor.oni_spawn_egg": "Huevo generador de Oni"
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [
+    "AAA",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "superarmor:akagane_ingot"
+    }
+  },
+  "result": {
+    "item": "superarmor:akagane_block"
+  }
+}

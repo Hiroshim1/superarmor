@@ -2,5 +2,17 @@
   "item.superarmor.titan_helmet": "Titan Samurai Kabuto",
   "item.superarmor.titan_chestplate": "Titan Samurai Dō",
   "item.superarmor.titan_leggings": "Titan Samurai Haidate",
-  "item.superarmor.titan_boots": "Titan Samurai Suneate"
+  "item.superarmor.titan_boots": "Titan Samurai Suneate",
+  "block.superarmor.akagane_ore": "Akagane Ore",
+  "block.superarmor.deepslate_akagane_ore": "Deepslate Akagane Ore",
+  "block.superarmor.akagane_block": "Block of Akagane",
+  "item.superarmor.akagane_ingot": "Akagane Ingot",
+  "item.superarmor.raw_akagane": "Raw Akagane",
+  "item.superarmor.akagane_katana": "Akagane Katana",
+  "entity.superarmor.samurai_warrior": "Samurai Warrior",
+  "entity.superarmor.ronin": "Ronin",
+  "entity.superarmor.oni": "Oni",
+  "item.superarmor.samurai_warrior_spawn_egg": "Samurai Warrior Spawn Egg",
+  "item.superarmor.ronin_spawn_egg": "Ronin Spawn Egg",
+  "item.superarmor.oni_spawn_egg": "Oni Spawn Egg"
 }

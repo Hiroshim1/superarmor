@@ -1,1 +1,18 @@
-{"type":"minecraft:crafting_shaped","category":"equipment","pattern":["S S","SSS","SSS"],"key":{"S":{"item":"minecraft:nether_star"}},"result":{"item":"superarmor:titan_chestplate"}}
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "A A",
+    "AAA",
+    "AAA"
+  ],
+  "key": {
+    "A": {
+      "item": "superarmor:akagane_ingot"
+    }
+  },
+  "result": {
+    "item": "superarmor:titan_chestplate",
+    "count": 1
+  }
+}
