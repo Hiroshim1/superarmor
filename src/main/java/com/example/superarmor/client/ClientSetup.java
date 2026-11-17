@@ -12,4 +12,14 @@ public class ClientSetup {
     public static void registerLayers(EntityRenderersEvent.RegisterLayerDefinitions event) {
         event.registerLayerDefinition(SamuraiArmorModel.LAYER, SamuraiArmorModel::createLayer);
     }
+
+    @SubscribeEvent
+    public static void registerRenderers(EntityRenderersEvent.RegisterRenderers event) {
+        event.registerEntityRenderer(SuperArmor.SAMURAI_WARRIOR.get(),
+                ctx -> new SamuraiRenderer<>(ctx, "samurai_warrior", 1.0F));
+        event.registerEntityRenderer(SuperArmor.RONIN.get(),
+                ctx -> new SamuraiRenderer<>(ctx, "ronin", 1.0F));
+        event.registerEntityRenderer(SuperArmor.ONI.get(),
+                ctx -> new SamuraiRenderer<>(ctx, "oni", 1.6F));
+    }
 }
